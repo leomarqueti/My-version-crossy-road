@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("imagem/099bc9063fc5bcd65183994e5e5573b6.jpg");
+  background-color: aquamarine;
+}
+canvas {
+  display: block;
+  margin: auto;
+  position: absolute;
+  top: 5px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+
